@@ -1,2 +1,3 @@
 # to test git
-print('hi')
+for _ in range(4):
+    print('hi')
